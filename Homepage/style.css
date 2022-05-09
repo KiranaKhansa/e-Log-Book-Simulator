@@ -29,6 +29,10 @@
     transition: 300ms;
   }
 
+  .continue-btn:hover {
+    transform: translateY(-8px);
+  }
+
 .title {
     position: absolute;
     left: 0%;
